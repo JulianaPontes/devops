@@ -1,1 +1,6 @@
-print("CI/CD funcionando com testes 🚀")
+import time
+
+print("CI/CD com Docker funcionando 🚀")
+
+while True:
+    time.sleep(10)
